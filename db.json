@@ -1,0 +1,109 @@
+{
+    "Products": [
+      
+      {
+        "id": 1,
+        "name": "Yalex",
+        "image": "https://vignette.wikia.nocookie.net/westworld/images/5/51/Dolores_Abernathy_Vanishing_Point.jpg/revision/latest?cb=20180613181613",
+        "new_price": 10.5,
+        "old_price": 16.50
+      },
+      {
+        "id": 2,
+        "name": "Yalex",
+        "image": "https://i.pinimg.com/originals/71/16/52/7116526bc704ba3c7b76891377900a60.jpg",
+        "new_price": 10.5,
+        "old_price": 16.50
+      },
+      {
+        "id": 3,
+        "name": "Yalex",
+        "image": "https://th.bing.com/th?id=OIP.zu4bmEKZBr58v_Tq6R56DQHaDt&w=349&h=174&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2",
+        "new_price": 10.5,
+        "old_price": 16.50
+      },
+      {
+        "id": 4,
+        "name": "Blucorner",
+        "image": "https://shopping.traveltheworld.com.ua/wp-content/uploads/2015/03/Bangkok-Fashion-Outlet-2.jpg",
+        "new_price": 10.5,
+        "old_price": 16.50
+      },
+      {
+        "id": 5,
+        "name": "Blucorner",
+        "image": "https://th.bing.com/th/id/OIP.lzRxHpHC13nV4_1rX_185AHaEK?w=236&h=180&c=7&r=0&o=5&cb=11&dpr=1.1&pid=1.7",
+        "new_price": 10.5,
+        "old_price": 16.50
+      },
+      {
+        "id": 6,
+        "name": "Blucorner",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/affordableclothing-1586354369.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+        "new_price": 10.5,
+        "old_price": 16.50
+      }
+    ],
+    "products1":[
+        {
+            "id": 1,
+            "category": "Polo",
+            "name": "Lifeline",
+            "image": "https://th.bing.com/th/id/R.85490756715ffcc97c6c1ddac139715a?rik=sbJWkL6zH33DDw&riu=http%3a%2f%2f4.bp.blogspot.com%2f-AITR-AwIwT4%2fThLm5tobj_I%2fAAAAAAAABzE%2f7JuGOciGehU%2fs1600%2fPicture-12.jpg&ehk=GFeNelXD6R9uvI0jxfd88Pey69Ul0ti%2btSeq3e7VSvw%3d&risl=&pid=ImgRaw&r=0",
+            "neckDesign": "withCollar",
+            "color": "white",
+            "size": "small",
+            "productdesc": "PN#017/Lifeline/collar/white/S",
+            "price": 18.5,
+            "inventory": 69
+          },
+          {
+            "id": 2,
+            "category": "formal",
+            "name": "Lifeline",
+            "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/d685d281157223.5e970b355c15b.jpg",
+            "neckDesign": "withCollar",
+            "color": "white",
+            "size": "medium",
+            "productdesc": "PN#018/Lifeline/collar/white/M",
+            "price": 19.5,
+            "inventory": 21
+          },
+          {
+            "id": 3,
+            "category": "formal",
+            "name": "Lifeline",
+            "image": "https://i.pinimg.com/originals/80/72/7a/80727af6f2f326af0e6bfab20a1d0626.jpg",
+            "neckDesign": "withCollar",
+            "color": "white",
+            "size": "large",
+            "productdesc": "PN#019/Lifeline/collar/white/L",
+            "price": 20,
+            "inventory": 25
+          },
+          {
+            "id": 4,
+            "category": "formal",
+            "name": "Lifeline",
+            "image": "https://i.ytimg.com/vi/GT55DrHptD0/maxresdefault.jpg",
+            "neckDesign": "withCollar",
+            "color": "white",
+            "size": "extralarge",
+            "productdesc": "PN#20/Lifeline/collar/white/XL",
+            "price": 21,
+            "inventory": "50"
+          },
+          {
+            "name": "iphone",
+            "image": "https://cdn.pixabay.com/photo/2014/08/05/10/30/iphone-410324_640.jpg",
+            "neckDesign": "long",
+            "color": "brown",
+            "size": "small",
+            "price": "700",
+            "productdesc": "PN # 22/iphone",
+            "inventory": "12",
+            "id": 5
+          }
+    ]
+}
+     
