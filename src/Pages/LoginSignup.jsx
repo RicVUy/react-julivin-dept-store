@@ -2,7 +2,9 @@ import React from 'react'
 
 const LoginSignup = () => {
   return (
-    <div>LoginSignup</div>
+    <div className='loginsignup'>
+      div.loginsignup-container
+    </div>
   )
 }
 
